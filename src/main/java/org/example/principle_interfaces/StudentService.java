@@ -44,7 +44,7 @@ public class StudentService implements IStudentService{
     }
 
     /// SINGLETON
-//    public static IStudentService INSTANCE = new StudentService();
+//    public static IStudentService INSTANCE;
 //
 //    public static IStudentService getINSTANCE() {
 //        if(INSTANCE == null) {
